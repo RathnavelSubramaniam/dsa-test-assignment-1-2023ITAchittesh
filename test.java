@@ -15,3 +15,4 @@ class test {
     System.out.println("Salary: " + salary);
   }
 }
+ 
