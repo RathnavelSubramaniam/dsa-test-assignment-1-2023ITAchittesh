@@ -1,5 +1,3 @@
-DSA TEST PROGRAM
-
 import java.util.Scanner;
 
 class test {
@@ -8,10 +6,10 @@ class test {
 
     System.out.println("Enter name, age and salary:");
 
-    String name = myObj.nextLine();
-    // 
-       TYPE YOUR CODE HERE
-      //
+    String name = "chittesh";
+    int age = 18;
+    Double salary = 1000000.00;
+
     System.out.println("Name: " + name);
     System.out.println("Age: " + age);
     System.out.println("Salary: " + salary);
